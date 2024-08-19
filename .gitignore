@@ -1,0 +1,6 @@
+# Ignore virtual and local environment
+.venv
+.env
+
+# Ignore MacOS files
+.DS_Store
