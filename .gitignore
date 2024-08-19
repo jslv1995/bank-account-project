@@ -4,3 +4,11 @@
 
 # Ignore MacOS files
 .DS_Store
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore pytest cache
+.pytest_cache/
+
